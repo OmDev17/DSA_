@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/OmDev17/DSA_/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/OmDev17/DSA_/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/OmDev17/DSA_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/OmDev17/DSA_/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/OmDev17/DSA_/tree/master/0485-max-consecutive-ones) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/OmDev17/DSA_/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -52,4 +53,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/OmDev17/DSA_/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/OmDev17/DSA_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
