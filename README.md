@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/OmDev17/DSA_/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/OmDev17/DSA_/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/OmDev17/DSA_/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/OmDev17/DSA_/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/OmDev17/DSA_/tree/master/0031-next-permutation) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/OmDev17/DSA_/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/OmDev17/DSA_/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
