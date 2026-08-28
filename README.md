@@ -76,9 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/OmDev17/DSA_/tree/master/0071-simplify-path) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/OmDev17/DSA_/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/OmDev17/DSA_/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/OmDev17/DSA_/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
