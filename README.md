@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/OmDev17/DSA_/tree/master/0031-next-permutation) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/OmDev17/DSA_/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/OmDev17/DSA_/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/OmDev17/DSA_/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/OmDev17/DSA_/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/OmDev17/DSA_/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/OmDev17/DSA_/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/OmDev17/DSA_/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
