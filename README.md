@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/OmDev17/DSA_/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/OmDev17/DSA_/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/OmDev17/DSA_/tree/master/0485-max-consecutive-ones) |
+| [1470-shuffle-the-array](https://github.com/OmDev17/DSA_/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/OmDev17/DSA_/tree/master/1480-running-sum-of-1d-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/OmDev17/DSA_/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/OmDev17/DSA_/tree/master/1929-concatenation-of-array) |
