@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/OmDev17/DSA_/tree/master/0071-simplify-path) |
+| [1021-remove-outermost-parentheses](https://github.com/OmDev17/DSA_/tree/master/1021-remove-outermost-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/OmDev17/DSA_/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/OmDev17/DSA_/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3174-clear-digits](https://github.com/OmDev17/DSA_/tree/master/3174-clear-digits) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/OmDev17/DSA_/tree/master/0071-simplify-path) |
+| [1021-remove-outermost-parentheses](https://github.com/OmDev17/DSA_/tree/master/1021-remove-outermost-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/OmDev17/DSA_/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/OmDev17/DSA_/tree/master/3174-clear-digits) |
 ## Binary Search
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/OmDev17/DSA_/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/OmDev17/DSA_/tree/master/0024-swap-nodes-in-pairs) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/OmDev17/DSA_/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
