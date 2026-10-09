@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/OmDev17/DSA_/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/OmDev17/DSA_/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/OmDev17/DSA_/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/OmDev17/DSA_/tree/master/0141-linked-list-cycle) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/OmDev17/DSA_/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/OmDev17/DSA_/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/OmDev17/DSA_/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/OmDev17/DSA_/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/OmDev17/DSA_/tree/master/0169-majority-element) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/OmDev17/DSA_/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/OmDev17/DSA_/tree/master/3731-find-missing-elements) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/OmDev17/DSA_/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/OmDev17/DSA_/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/OmDev17/DSA_/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/OmDev17/DSA_/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/OmDev17/DSA_/tree/master/1021-remove-outermost-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/OmDev17/DSA_/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
