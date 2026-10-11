@@ -128,11 +128,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/OmDev17/DSA_/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/OmDev17/DSA_/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/OmDev17/DSA_/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/OmDev17/DSA_/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/OmDev17/DSA_/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/OmDev17/DSA_/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/OmDev17/DSA_/tree/master/0206-reverse-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
