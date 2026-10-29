@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/OmDev17/DSA_/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/OmDev17/DSA_/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/OmDev17/DSA_/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/OmDev17/DSA_/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/OmDev17/DSA_/tree/master/0160-intersection-of-two-linked-lists) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/OmDev17/DSA_/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/OmDev17/DSA_/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/OmDev17/DSA_/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/OmDev17/DSA_/tree/master/0169-majority-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/OmDev17/DSA_/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3731-find-missing-elements](https://github.com/OmDev17/DSA_/tree/master/3731-find-missing-elements) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/OmDev17/DSA_/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/OmDev17/DSA_/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/OmDev17/DSA_/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/OmDev17/DSA_/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/OmDev17/DSA_/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/OmDev17/DSA_/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/OmDev17/DSA_/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/OmDev17/DSA_/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/OmDev17/DSA_/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/OmDev17/DSA_/tree/master/0206-reverse-linked-list) |
@@ -185,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/OmDev17/DSA_/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/OmDev17/DSA_/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/OmDev17/DSA_/tree/master/0112-path-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/OmDev17/DSA_/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
